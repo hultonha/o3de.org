@@ -39,6 +39,7 @@ This section is currently incomplete, with a stub example for AzCore. As documen
 | Name | Description |
 |-|-|
 | [AzCore](./frameworks/azcore) | Learn about the core internals of O3DE such as memory management and the custom RTTI system. |
+| [Component Mode](./frameworks/aztoolsframework/componentmode) | Learn about how to add viewport editing capabilities to your component. |
 
 ## Included Gems
 
