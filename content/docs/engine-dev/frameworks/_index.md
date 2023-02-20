@@ -16,4 +16,4 @@ This is a stub page intended to serve as an example of guide structure. Informat
 | Name | Description |
 |-|-|
 | [AzCore](./azcore) | Learn about the core internals of Open 3D Engine such as memory management and the custom RTTI system. |
-| [Component Mode](./aztoolsframework/componentmode) | Learn about how to add viewport editing capabilities to your component. |
+| [AzToolsFramework](./aztoolsframework) | Learn about the code supporting Open 3D Engine editors and tools. |

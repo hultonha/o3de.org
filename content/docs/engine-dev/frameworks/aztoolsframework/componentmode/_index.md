@@ -1,7 +1,7 @@
 ---
 linkTitle: Component Mode
-title: Component Mode Framework Documentation
-description: Documentation for the Component Mode Framework of Open 3D Engine, facilitating custom viewport editing for components.
+title: Component Mode
+description: Documentation for the Component Mode Framework in Open 3D Engine, facilitating custom viewport editing for components.
 weight: 100
 ---
 
